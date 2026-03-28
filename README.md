@@ -9,7 +9,7 @@ Project Links
      https://anandrajsharma21.github.io/Assignment03/
      
      GitHub Repository URL:
-     https://github.com/anandrajsharma21/Assignment03
+     https://github.com/anandrajsharma21/Assignment03.git
 
 
 
