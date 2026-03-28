@@ -5,13 +5,17 @@ UNIVERSITY: South Asian University
 
 
 Project Links
-     Live Website URL:
+  Live Website URL:
      https://anandrajsharma21.github.io/Assignment03/
      
-     GitHub Repository URL:
+  GitHub Repository URL:
      https://github.com/anandrajsharma21/Assignment03
 
-
+### Project Links
+  Live Website URL:
+     https://anandrajsharma21.github.io/Assignment03/
+  GitHub Repository URL:
+     https://github.com/anandrajsharma21/Assignment03
 
  Anpurna — Cooking Recipes Website
 
