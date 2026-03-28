@@ -1,21 +1,24 @@
+
+
 NAME: Anand Raj Sharma
 UNIVERSITY: South Asian University
+
 
 Project Links
      Live Website URL:
      https://anandrajsharma21.github.io/Assignment03/
      
      GitHub Repository:
-     
+     https://github.com/anandrajsharma21/Assignment03
 
 
 
-🍽 Anpurna — Cooking Recipes Website
+ Anpurna — Cooking Recipes Website
 
 A simple and clean Indian cooking recipes website built with pure HTML and CSS.
 The name Anpurna is inspired by Annapurna, the Hindu goddess of food and nourishment.
 
-📁 Project Structure
+ Project Structure
 
 anpurna/
 ├── index.html          # Home page with hero section and featured recipes
@@ -29,7 +32,7 @@ anpurna/
 └── css/
     └── styles.css      # All styles for the website
     
-🍛 Recipes Included
+ Recipes Included
 
          Recipe              Category       Difficulty       Time
 
@@ -43,20 +46,20 @@ anpurna/
 
          Chicken Biryani    Non-Vegetarian   Hard           75 mins
 
-🚀 How to Run
+ How to Run
 
 No installation or build tools needed. Just open the project in a browser:
 Download or clone the project folder.
 Open index.html in any modern web browser.
 
-🛠 Tech Stack
+ Tech Stack
 
 HTML5 — Page structure and content
 CSS3 — Styling and layout (no frameworks)
 
-👨‍💻 Author
+ Author
 
-Made with ❤️ by Anand Raj Sharma
+Made with love by Anand Raj Sharma
 © 2026 Anpurna
 
 
