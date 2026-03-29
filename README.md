@@ -17,19 +17,12 @@ Project Links
 A simple and clean Indian cooking recipes website built with pure HTML and CSS.
 The name Anpurna is inspired by Annapurna, the Hindu goddess of food and nourishment.
 
- Project Structure
+Key Features
 
-anpurna/
-├── index.html          # Home page with hero section and featured recipes
-├── categories.html     # Browse recipes by category
-├── about.html          # About page
-├── recipe1.html        # Dal Tadka
-├── recipe2.html        # Vegetable Pulao
-├── recipe3.html        # Gulab Jamun
-├── recipe4.html        # Chicken Biryani
-├── recipe5.html        # Aloo Paratha
-└── css/
-    └── styles.css      # All styles for the website
+Pure UI: Built entirely with pure HTML5 and CSS3 without the use of external frameworks or libraries.
+Diverse Categories: Includes a variety of recipes ranging from Vegetarian and Non-Vegetarian to Desserts.
+Structured Layout: Features a dedicated hero section, categorized browsing, and individual recipe pages.
+
     
  Recipes Included
 
@@ -45,8 +38,7 @@ anpurna/
 
          Chicken Biryani    Non-Vegetarian   Hard           75 mins
 
- How to Run
-
+ 
 No installation or build tools needed. Just open the project in a browser:
 Download or clone the project folder.
 Open index.html in any modern web browser.
@@ -54,12 +46,7 @@ Open index.html in any modern web browser.
  Tech Stack
 
 HTML5 — Page structure and content
-CSS3 — Styling and layout (no frameworks)
-
- Author
-
-Made with love by Anand Raj Sharma
-© 2026 Anpurna
+CSS3 — Styling and layout (no framework)
 
 
 
