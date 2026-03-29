@@ -6,7 +6,7 @@ UNIVERSITY: South Asian University
 
 Project Links
   Live Website URL:
-     https://anandrajsharma21.github.io/Assignment03/
+      https://anandrajsharma21.github.io/recipe-website/
      
   GitHub Repository URL:
      https://github.com/anandrajsharma21/Assignment03
